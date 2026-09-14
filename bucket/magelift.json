@@ -1,0 +1,22 @@
+{
+    "version": "0.0.0-dialproof.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/magelift/magelift/releases/download/v0.0.0-dialproof.6/magelift_0.0.0-dialproof.6_windows_amd64.zip",
+            "bin": [
+                "magelift.exe"
+            ],
+            "hash": "be7cd29e3f154eb6ff0aaf6009db99a7b31aba081e50a84ba197082290008264"
+        },
+        "arm64": {
+            "url": "https://github.com/magelift/magelift/releases/download/v0.0.0-dialproof.6/magelift_0.0.0-dialproof.6_windows_arm64.zip",
+            "bin": [
+                "magelift.exe"
+            ],
+            "hash": "7add3e236f8e3a85ffb28b1e89a9a257a6487e98d386a964a3e39b8aa1e1eff0"
+        }
+    },
+    "homepage": "https://magelift.dev",
+    "license": "Apache-2.0",
+    "description": "Open-source Magento CLI for your AWS or GCP account"
+}
