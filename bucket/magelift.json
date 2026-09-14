@@ -1,19 +1,19 @@
 {
-    "version": "0.0.0-dialproof.8",
+    "version": "0.0.0-dialproof.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/magelift/magelift/releases/download/v0.0.0-dialproof.8/magelift_0.0.0-dialproof.8_windows_amd64.zip",
+            "url": "https://github.com/magelift/magelift/releases/download/v0.0.0-dialproof.9/magelift_0.0.0-dialproof.9_windows_amd64.zip",
             "bin": [
                 "magelift.exe"
             ],
-            "hash": "9068dc8b3adcfe8d5c3b8d61ac10732b456f024390574a1294e0b40f1b9416af"
+            "hash": "9f4edd0457cef6180daae45dfb69241bba4a6998f6671fef16da474815a100dd"
         },
         "arm64": {
-            "url": "https://github.com/magelift/magelift/releases/download/v0.0.0-dialproof.8/magelift_0.0.0-dialproof.8_windows_arm64.zip",
+            "url": "https://github.com/magelift/magelift/releases/download/v0.0.0-dialproof.9/magelift_0.0.0-dialproof.9_windows_arm64.zip",
             "bin": [
                 "magelift.exe"
             ],
-            "hash": "ce7b609c8ab3f4ee6542e110f57568c2476a1e8bef26ba08da7de6b2f409022f"
+            "hash": "3efd6503f272b9f35813c1fc0a2fc00c63b755c85472710141c03900b85e4af5"
         }
     },
     "homepage": "https://magelift.dev",
