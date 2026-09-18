@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-alpha.1-rc.3",
+    "version": "0.1.0-alpha.1-rc.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/magelift/magelift/releases/download/v0.1.0-alpha.1-rc.3/magelift_0.1.0-alpha.1-rc.3_windows_amd64.zip",
+            "url": "https://github.com/magelift/magelift/releases/download/v0.1.0-alpha.1-rc.10/magelift_0.1.0-alpha.1-rc.10_windows_amd64.zip",
             "bin": [
                 "magelift.exe"
             ],
-            "hash": "8f72b51c1869e2b2112daff3e45ab2103855178a356f57204a10dd2edc1f87bd"
+            "hash": "658915b0458be8b6184ab645dcf115ff3eacf129971d51172e75e1fd5bc9756a"
         },
         "arm64": {
-            "url": "https://github.com/magelift/magelift/releases/download/v0.1.0-alpha.1-rc.3/magelift_0.1.0-alpha.1-rc.3_windows_arm64.zip",
+            "url": "https://github.com/magelift/magelift/releases/download/v0.1.0-alpha.1-rc.10/magelift_0.1.0-alpha.1-rc.10_windows_arm64.zip",
             "bin": [
                 "magelift.exe"
             ],
-            "hash": "e813cab64a5610a1c4c96b6a062a35309ac4827fe26769b781bb9c038aa909dc"
+            "hash": "9205a79a4033d9ff3e344c32567634ac6981d193ecf067533507905de7faae1e"
         }
     },
     "homepage": "https://magelift.dev",
